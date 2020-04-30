@@ -32,6 +32,17 @@ h1 {
   margin: 0;
 }
 
+.glider {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+
+.glider img {
+  height: 15px;
+  width: 15px;
+}
+
 @media (max-width: 480px) {
   .main-text {
     display: flex;
